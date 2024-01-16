@@ -12,7 +12,9 @@
     .checkbtn{
     position: relative;
     display: block;
+    overflow: hidden;
      justify-content: center;
+
       
     }
     ul{
