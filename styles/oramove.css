@@ -223,12 +223,14 @@ a:hover {
 
 /* popular tour section */
 #popular-section {
+  max-width: 1440px;
+  margin: 0 auto;
 }
 .popular {
   display: flex;
   background: #fff;
   margin-top: 100px;
-  padding: 130px 200px;
+  padding: 100px 50px;
   gap: 100px;
 }
 
@@ -282,7 +284,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 50px;
+  padding-top: 70px;
   padding-bottom: 50px;
 }
 
@@ -313,7 +315,7 @@ a:hover {
 
 .centered-1 {
   position: absolute;
-  top: 220%;
+  top: 200%;
   left: 28%;
   color: #fff;
   text-align: center;
@@ -326,7 +328,7 @@ a:hover {
 
 .centered-2 {
   position: absolute;
-  top: 220%;
+  top: 200%;
   left: 65%;
   color: #fff;
   text-align: center;
@@ -339,7 +341,7 @@ a:hover {
 
 .centered-3 {
   position: absolute;
-  top: 267%;
+  top: 250%;
   left: 22%;
   color: #fff;
   text-align: center;
@@ -352,7 +354,7 @@ a:hover {
 
 .centered-4 {
   position: absolute;
-  top: 267%;
+  top: 250%;
   left: 44%;
   color: #fff;
   text-align: center;
@@ -362,7 +364,7 @@ a:hover {
 
 .centered-5 {
   position: absolute;
-  top: 267%;
+  top: 250%;
   left: 70%;
   color: #fff;
   text-align: center;
@@ -372,7 +374,7 @@ a:hover {
 
 .centered-6 {
   position: absolute;
-  top: 320%;
+  top: 300%;
   left: 25%;
   color: #fff;
   text-align: center;
@@ -385,7 +387,7 @@ a:hover {
 
 .centered-7 {
   position: absolute;
-  top: 320%;
+  top: 300%;
   left: 65%;
   color: #fff;
   text-align: center;
